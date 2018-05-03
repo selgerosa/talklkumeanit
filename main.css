@@ -12,32 +12,6 @@ body {
   display: flex;
   flex-direction: column;
 }
- .leetparent {
-  background: url("leetbg.jpg");
-}
- .leetchild{
-  background-color: rgb(173, 204, 255, .8);
-  padding-left: 3vw;
-  padding-right: 3vw;
-  width: 50vw;
-  justify-content: center;
-  padding-bottom: 5vh;
-}
-
-.lolparent {
-
-}
-.lolchild {
-  width: 70vw;
-}
-
-.leet img{
-  display: inline;
-}
-.l1 img{
-  width: 20vw;
-}
-
 header{
   display: flex;
   justify-content: center;
@@ -46,7 +20,6 @@ header{
     margin-bottom: 5vh;
 }
 header h1{
-
   text-align: center;
   font-size: 5vw;
   margin: 0;
@@ -61,14 +34,67 @@ img {
   max-height: auto;
   align-self: center;
 }
-.leetparent, p {
+
+.nav {
+  font-size: 6vw;
+}
+
+/* leet style */
+ .leetparent {
+  background: url("leetbg.jpg");
+}
+ .leetchild{
+  background-color: rgb(173, 204, 255, .8);
+  padding-left: 3vw;
+  padding-right: 3vw;
+  width: 50vw;
+  justify-content: center;
+  padding-bottom: 5vh;
+}
+.leetparent p {
   font-family: Arial, sans-serif;
 }
 .lpull {
   margin:0;
   margin-bottom: 1vh;
 }
-.lolparent, p {
+.leet img{
+  display: inline;
+}
+.l1 img{
+  width: 20vw;
+}
+
+/* lolstyle */
+
+.lolparent {
+
+}
+.lolchild {
+  width: 70vw;
+}
+
+.lolparent p {
   font-family:'Roboto',sans-serif;
-  font-size: 3vw;
+  font-size: 2vw;
+}
+
+/* homepage style */
+.mainchild {
+  width: 80vw;
+}
+.mainchild p {
+  font-size: 6vw;
+  /* this is the dumbass way apple does sf pro */
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+.mainchild h1 {
+  font-size: 10vw;
+  margin-bottom: 0;
+}
+.mainchild h2 {
+  font-size: 7vw;
+}
+.mainchild h3 {
+  font-size: 5vw;
 }
