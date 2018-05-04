@@ -11,6 +11,7 @@ body {
 .child {
   display: flex;
   flex-direction: column;
+  width: 70vw;
 }
 header{
   display: flex;
@@ -28,6 +29,9 @@ header h1{
 }
 h1, h2 , h3{
   font-family: 'EB Garamond', serif;
+}
+p {
+  font-size: 5vw;
 }
 img {
   max-width: 100%;
