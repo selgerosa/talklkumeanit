@@ -39,6 +39,10 @@ h3 {
 p {
   font-size: 5vw;
 }
+ol, li {
+  font-family: 'EB Garamond', serif;
+  font-size: 5vw;
+}
 img {
   max-width: 100%;
   max-height: auto;
