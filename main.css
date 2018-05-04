@@ -30,6 +30,12 @@ header h1{
 h1, h2 , h3{
   font-family: 'EB Garamond', serif;
 }
+h2 {
+  font-size: 4vw;
+}
+h3 {
+  font-size: 3vw;
+}
 p {
   font-size: 5vw;
 }
@@ -57,6 +63,7 @@ img {
 }
 .leetparent p {
   font-family: Arial, sans-serif;
+  font-size: 2vw;
 }
 .lpull {
   margin:0;
