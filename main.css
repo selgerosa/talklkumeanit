@@ -83,8 +83,17 @@ img {
 /* lolstyle */
 
 .lolparent {
-
+  color: #003496;
+  background-color: rgb(173, 204, 255);
 }
+.lolh {
+  background-image: linear-gradient(#003496, #82adff);
+  padding:5vw;
+  margin:0;
+  color:white;
+}
+.lolparent header h1 {color:white;}
+
 .lolchild {
   width: 70vw;
 }
@@ -92,6 +101,14 @@ img {
 .lolparent p {
   font-family:'Roboto',sans-serif;
   font-size: 2vw;
+}
+
+.lolparent .nav {
+  font-size: 2vw;
+}
+
+.lolparent h2 {
+  font-size: 3vw;
 }
 
 /* homepage style */
