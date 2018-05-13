@@ -130,3 +130,461 @@ img {
 .mainchild h3 {
   font-size: 5vw;
 }
+
+
+/* the emoji shit */
+.emoji {
+  width: 3vw;
+  position: fixed;
+  visibility: hidden;
+}
+#e01 {left: 3vw;
+top:60vh;
+}
+#e02 {left: 5vw;
+top:85vh;
+}
+#e03 {left: 7vw;
+top:90vh;
+}
+#e04 {left: 10vw;
+top:80vh;
+}
+#e05 {left: 12vw;
+top:65vh;
+}
+#e06 {left: 15vw;
+top:75vh;
+}
+#e07 {left: 17vw;
+top:40vh;
+}
+#e08 {left: 20vw;
+top:70vh;
+}
+#e09 {left: 22vw;
+top:90vh;
+}
+#e010 {left: 25vw;
+top:40vh;
+}
+#e011 {left: 27vw;
+top:70vh;
+}
+#e012 {left: 30vw;
+top:30vh;
+}
+#e013 {left: 32vw;
+top:20vh;
+}
+#e014 {left: 35vw;
+top:40vh;
+}
+#e015 {left: 38vw;
+top:50vh;
+}
+#e016 {left: 40vw;
+top:20vh;
+}
+#e017 {left: 42vw;
+top:80vh;
+}
+#e018 {left: 45vw;
+top:65vh;
+}
+#e019 {left: 47vw;
+top: 30vh;
+}
+#e020 {left: 50vw;
+top: 80vh;
+}
+#e021 {left: 53vw;
+top:43vh;
+}
+#e022 {left: 55vw;
+top:21vh;
+}
+#e023 {left: 57vw;
+top:65vh;
+}
+#e024 {left: 60vw;
+top:80vh;
+}
+#e025 {left: 62vw;
+top:76vh;
+}
+#e026 {left: 65vw;
+top:55vh;
+}
+#e027 {left: 69vw;
+top:32vh;
+}
+#e028 {left: 70vw;
+top:10vh;
+}
+#e029 {left: 72vw;
+top:44vh;
+}
+#e030 {left: 75vw;
+top:60vh;
+}
+#e031 {left: 77vw;
+top:48vh;
+}
+#e032 {left: 80vw;
+top:80vh;
+}
+#e033 {left: 82vw;
+top:30vh;
+}
+#e034 {left: 85vw;
+top:22vh;
+}
+#e035 {left: 88vw;
+top:88vh;
+}
+#e036 {left: 90vw;
+top:12vh;
+}
+#e037 {left: 92vw;
+top:60vh;
+}
+#e038 {left: 95vw;
+top:84vh;
+}
+#e039 {left: 97vw;
+top:33vh;
+}
+#e040 {left: 0;
+top:30vh;
+}
+#e041 {left: 3vw;
+top:50vh;
+}
+#e042 {left: 5vw;
+top: 15vh;
+}
+#e043 {left: 10vw;
+top: 91vh;
+}
+#e044 {left: 7vw;
+top: 30vh;
+}
+#e045 {left: 13vw;
+top: 33vh;
+}
+#e046 {left: 15vw;
+top: 60vh;
+}
+#e047 {left: 18vw;
+top: 82vh;
+}
+#e048 {left: 20vw;
+top: 3vh;
+}
+#e049 {left: 22vw;
+top: 44vh;
+}
+#e050 {left: 24vw;
+top: 30vh;
+}
+#e051 {left: 27vw;
+top:66vh;
+}
+#e052 {left: 30vw;
+top:61vh;
+}
+#e053 {left: 31vw;
+top:5vh;
+}
+#e054 {left: 34vw;
+top:88vh;
+}
+#e055 {left: 36vw;
+top:45vh;
+}
+#e056 {left: 35vw;
+top:25vh;
+}
+#e057 {left: 40vw;
+top:33vh;
+}
+#e058 {left: 41vw;
+top:70vh;
+}
+#e059 {left: 44vw;
+top:20vh;
+}
+#e060 {left: 47vw;
+top:11vh;
+}
+#e061 {left: 49vw;
+top:6vh;
+}
+#e062 {left: 50vw;
+top:80vh;
+}
+#e063 {left: 52vw;
+top:60vh;
+}
+#e064 {left: 2vw;
+top:38vh;
+}
+#e065 {left: 56vw;
+top:40vh;
+}
+#e066 {left: 58vw;
+top:73vh;
+}
+#e067 {left: 60vw;
+top:23vh;
+}
+#e068 {left: 63vw;
+top:5vh;
+}
+#e069 {left: 66vw;
+top:76vh;
+}
+#e070 {left: 68vw;
+top:60vh;
+}
+#e071 {left: 70vw;
+top:10vh;
+}
+#e072 {left: 73vw;
+top:54vh;
+}
+#e073 {left: 75vw;
+top:10vh;
+}
+#e074 {left: 77vw;
+top:90vh;
+}
+#e075 {left: 80vw;
+top:11vh;
+}
+#e076 {left: 81vw;
+top:87vh;
+}
+#e077 {left: 83vw;
+top:42vh;
+}
+#e078 {left: 85vw;
+top:33vh;
+}
+#e079 {left: 87vw;
+top:79vh;
+}
+#e080 {left: 89vw;
+top:53vh;
+}
+#e081 {left: 90vw;
+top:69vh;
+}
+#e082 {left: 92vw;
+top:20vh;
+}
+#e083 {left: 93vw;
+top:6vh;
+}
+#e084 {left: 95vw;
+top:90vh;
+}
+#e085 {left: 97vw;
+top:50vh;
+}
+#e086 {left: 0vw;
+top:60vh;
+}
+#e087 {left: 2vw;
+top:12vh;
+}
+#e088 {left: 5vw;
+top:70vh;
+}
+#e089 {left: 9vw;
+top:42vh;
+}
+#e090 {left: 10vw;
+top:30vh;
+}
+#e091 {left: 12vw;
+top:12vh;
+}
+#e092 {left: 15vw;
+top:67vh;
+}
+#e093 {left: 17vw;
+top:22vh;
+}
+#e094 {left: 20vw;
+top:14vh;
+}
+#e095 {left: 22vw;
+top:78vh;
+}
+#e096 {left: 25vw;
+top:19vh;
+}
+#e097 {left: 28vw;
+top:46vh;
+}
+#e098 {left: 30vw;
+top:80vh;
+}
+#e099 {left: 32vw;
+top:70vh;
+}
+#e0100 {left: 35vw;
+top:60vh;
+}
+#e0101 {left: 37vw;
+top:10vh;
+}
+#e0102 {left: 40;
+top:40vh;
+}
+#e0103 {left: 45vw;
+top:87vh;
+}
+#e0104 {left: 47vw;
+top:50vh;
+}
+#e0105 {left: 50vw;
+top:87vh;
+}
+#e0106 {left: 52vw;
+top:54vh;
+}
+#e0107 {left: 55vw;
+top:95vh;
+}
+#e0108 {left: 58vw;
+top:3vh;
+}
+#e0109 {left: 60vw;
+top:88vh;
+}
+#e0110 {left: 62vw;
+top:36vh;
+}
+#e0111 {left: 65vw;
+top:13vh;
+}
+#e0112 {left: 67vw;
+top:80vh;
+}
+#e0113 {left: 70vw;
+top:72vh;
+}
+#e0114 {left: 73vw;
+top:95vh;
+}
+#e0115 {left: 75vw;
+top:20vh;
+}
+#e0116 {left: 77vw;
+top:77vh;
+}
+#e0117 {left: 80vw;
+top:64vh;
+}
+#e0118 {left: 82vw;
+top:68vh;
+}
+#e0119 {left: 85vw;
+top:54vh;
+}
+#e0120 {left: 89vw;
+top:7vh;
+}
+#e0121 {left: 90vw;
+top:42vh;
+}
+#e0122 {left: 92vw;
+top:73vh;
+}
+#e0123 {left: 95vw;
+top:94vh;
+}
+#e0124 {left: 97vw;
+top:2vh;
+}
+#e0125 {left: 0vw;
+top:0;
+}
+#e0126 {left: 82vw;
+top:3vh;
+}
+#e0127 {left: 65vw;
+top:48vh;
+}
+#e0128 {left: 8vw;
+top:7vh;
+}
+#e0129 {left: 0vw;
+top:93vh;
+}
+#e0130 {left: 72vw;
+top:88vh;
+}
+#e0131 {left: 2vw;
+top:75vh;
+}
+#e0132 {left: 7vw;
+top:1vh;
+}
+#e0133 {left: 10vw;
+top:55vh;
+}
+#e0134 {left: 22vw;
+top:55vh;
+}
+#e0135 {left: 54vw;
+top:10vh;
+}
+#e0136 {left: 15vw;
+top:95vh;
+}
+#e0137 {left: 73vw;
+top:4vh;
+}
+#e0138 {left: 20vw;
+top:77vh;
+}
+#e0139 {left: 32vw;
+top: 12vh;
+}
+#e0140 {left: 35vw;
+top: 95vh;
+}
+#e0141 {left: 37vw;
+top:77vh;
+}
+#e0142 {left: 80vw;
+top:57vh;
+}
+#e0143 {left: 42vw;
+top:58vh;
+}
+#e0144 {left: 45vw;
+top:93vh;
+}
+#e0145 {left: 48vw;
+top:23vh;
+}
+#e0146 {left: 50vw;
+top:72vh;
+}
+#e0147 {left: 52vw;
+top:34vh;
+}
+#e0148 {left: 65vw;
+top:66vh;
+}
+#e0149 {left: 67vw;
+top:20vh;
+}
+#e0150 {left: 40vw;
+top:0vh;
+}
