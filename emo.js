@@ -1,13 +1,13 @@
 setTimeout( function() {
-  setInterval( function() {
+  var ind1 = setInterval( function() {
     var temp = Math.floor(Math.random() * 151);
     document.getElementById("e0"+temp).style.visibility ='visible';
   },1500);
-  setInterval( function() {
+  var ind2 = setInterval( function() {
     var temp = Math.floor(Math.random() * 151);
     document.getElementById("e0"+temp).style.visibility ='visible';
   },4000);
-  setInterval( function() {
+  var ind3 = setInterval( function() {
     var temp = Math.floor(Math.random() * 151);
     document.getElementById("e0"+temp).style.visibility ='visible';
   },700);
@@ -19,4 +19,5 @@ setTimeout( function() {
       }
     }
   )
+
 },2000);
