@@ -1,3 +1,5 @@
+document.button.addEventListener("click", function(){
+
 setTimeout( function() {
   var ind1 = setInterval( function() {
     var temp = Math.floor(Math.random() * 151);
@@ -21,3 +23,4 @@ setTimeout( function() {
   )
 
 },2000);
+})
